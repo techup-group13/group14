@@ -79,3 +79,31 @@ color: bisque;
 background-color: aquamarine;
 }
  
+
+.titullii{
+    background-color: orange; 
+    width: max-content;
+    padding: 70px 40px;
+    margin: 30px 60px;
+    border: 6px  dashed blueviolet ;
+}
+
+
+
+th:hover {
+background-color: red;
+transition: 3s;
+color: blue;
+}
+#foto1:hover{ 
+    width: 400px;
+    height: 300px;
+
+
+}
+tr:nth-child(even){
+    background-color: burlywood;
+    }
+    tr:nth-child(odd){
+    background-color: greenyellow;
+    }
