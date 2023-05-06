@@ -91,7 +91,7 @@ background-color: aquamarine;
 
 
 th:hover {
-background-color: red;
+background-color: blue;
 transition: 3s;
 color: blue;
 }
